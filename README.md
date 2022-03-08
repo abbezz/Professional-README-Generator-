@@ -2,7 +2,7 @@
   # Title 
   Professional-README-Generator
   # Description Of Application 
-  This application will generate a professional README following the node index inquirer promt
+  This application will generate a professional README following the node index inquirer prompt
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
