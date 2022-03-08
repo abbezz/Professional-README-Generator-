@@ -25,6 +25,6 @@
   <a name ="tests"> </a>
   undefined
   # Questions
-  Any questions for me? Send me a direct email on abbezz@live.com.
-  You can also visit my Github profile here www.github.com/abbezz
+  Any questions? abbezz@live.com.
+  You can visit my Github profile here www.github.com/abbezz
   
